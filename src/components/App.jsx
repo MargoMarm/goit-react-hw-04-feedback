@@ -22,7 +22,7 @@ const App = () => {
         setBad(bad + 1);
         break;
       default: {
-        console.log('There is no a such option like that');
+        console.log('There is no such option');
       }
     }
   };
